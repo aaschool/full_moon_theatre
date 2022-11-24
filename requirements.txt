@@ -1,0 +1,9 @@
+pyorbital
+pyephem
+geopy
+skyfield
+pyastronomy
+pylunar
+pandas
+matplotlib
+numpy
