@@ -1,4 +1,4 @@
-# aa_fullmoon
+# Full Moon Theatre
 
 This repository includes a Jupyter notebook to help planning the Full Moon Theatre events.
 
