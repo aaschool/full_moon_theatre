@@ -1,10 +1,11 @@
-pyorbital
-pyephem
 geopy
-skyfield
-pyastronomy
 pylunar
 pandas
 matplotlib
 numpy
-opencv-python>=3.0.0
+notebook
+#skyfield
+#pyastronomy
+#pyorbital
+#pyephem
+#opencv-python>=3.0.0
