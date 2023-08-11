@@ -4,6 +4,7 @@ pandas
 matplotlib
 numpy
 notebook
+git+https://github.com/spacerest/moon.git
 #skyfield
 #pyastronomy
 #pyorbital
