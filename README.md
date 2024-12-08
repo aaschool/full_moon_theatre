@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> This repository is no longer updated as the project has moved to the [Full Moon Theatre](https://github.com/fullmoontheatre/fmt_planning) organisation.
+
 # Full Moon Theatre
 
 This repository includes a Jupyter notebook to help planning the Full Moon Theatre events.
